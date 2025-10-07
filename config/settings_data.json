@@ -38,7 +38,14 @@
     "favicon": "shopify://shop_images/L_6.png",
     "checkout_accent_color": "#f0c417",
     "checkout_button_color": "#1a1a1a",
-    "content_for_index": []
+    "content_for_index": [],
+    "blocks": {
+      "8813061279672126719": {
+        "type": "shopify://apps/nighttheme/blocks/darkmode/f0d9e65a-cbab-4d1e-9b9d-124df5b14a95",
+        "disabled": false,
+        "settings": {}
+      }
+    }
   },
   "presets": {
     "Sound": {

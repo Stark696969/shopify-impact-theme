@@ -203,7 +203,8 @@
         "collection-1": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/1_acf471d8-c9f7-42e5-a00c-6f3301069547.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -217,7 +218,8 @@
         "collection-2": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/1.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -231,7 +233,8 @@
         "collection-3": {
           "type": "collection",
           "settings": {
-            "collection": "",
+            "collection": "frontpage",
+            "image": "shopify://shop_images/1_59d31c6c-4cff-4551-80d0-ce26543aec39.png",
             "subheading": "",
             "title": "",
             "url": "",
@@ -269,10 +272,19 @@
       "type": "featured-collection",
       "settings": {
         "collection": "",
-        "products": [],
+        "products": [
+          "unisex-supima-t-shirt-7",
+          "unisex-supima-t-shirt-6",
+          "unisex-supima-t-shirt-5",
+          "unisex-supima-t-shirt-4",
+          "unisex-supima-t-shirt-3",
+          "unisex-supima-t-shirt-2",
+          "unisex-supima-t-shirt-1",
+          "unisex-supima-t-shirt"
+        ],
         "full_width": true,
         "stack_products": false,
-        "show_progress_bar": false,
+        "show_progress_bar": true,
         "products_count": 6,
         "products_per_row_mobile": "2",
         "products_per_row_desktop": 4,

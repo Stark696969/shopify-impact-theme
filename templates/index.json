@@ -15,11 +15,13 @@
         "slide-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/banner_2.png",
+            "mobile_image": "shopify://shop_images/babber_2_phone.png",
             "content_max_width": 780,
             "mobile_text_position": "place-self-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -27,7 +29,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 12,
             "background": "",
             "background_gradient": ""
           }
@@ -35,11 +37,13 @@
         "slide-2": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/banner.png",
+            "mobile_image": "shopify://shop_images/banner_phone.png",
             "content_max_width": 780,
-            "mobile_text_position": "place-self-center text-center",
+            "mobile_text_position": "place-self-end-center text-center",
             "desktop_text_position": "sm:place-self-center sm:text-center",
-            "subheading": "Tell your story",
-            "title": "Slide title",
+            "subheading": "",
+            "title": "",
             "heading_tag": "h0",
             "button_text": "",
             "button_link": "",
@@ -47,7 +51,7 @@
             "button_background": "#ffffff",
             "button_text_color": "#000000",
             "overlay_color": "#000000",
-            "overlay_opacity": 30,
+            "overlay_opacity": 12,
             "background": "",
             "background_gradient": ""
           }
@@ -168,7 +172,7 @@
         "background": "",
         "background_gradient": "",
         "text_color": "#000000",
-        "text_gradient": "radial-gradient(rgba(113, 198, 255, 1), rgba(215, 204, 250, 1) 100%, rgba(247, 197, 204, 1) 100%)"
+        "text_gradient": "linear-gradient(14deg, rgba(10, 10, 10, 1) 11%, rgba(255, 245, 255, 1) 100%)"
       }
     },
     "collection-list": {
@@ -333,14 +337,14 @@
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
-        "enable_parallax": false,
+        "enable_parallax": true,
         "image_size": "auto",
         "image": "shopify://shop_images/supima_banner.webp",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "mobile_text_position": "place-self-start-center text-center",
+        "desktop_text_position": "sm:place-self-start-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 20
       }
     },
     "media-grid": {
@@ -349,6 +353,7 @@
         "item-1": {
           "type": "image",
           "settings": {
+            "image": "shopify://shop_images/img_1500x1500_bb8621ec-2130-40d9-8d19-e406b1e37657.png",
             "title": "Promote your products",
             "heading_tag": "h4",
             "link_url": "",
@@ -370,7 +375,7 @@
         "item-2": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "title": "Superior Strength",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -391,7 +396,7 @@
         "item-3": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "title": "Exceptional Softness",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -412,7 +417,7 @@
         "29246d34-c6e0-4373-84f6-b15e57736a00": {
           "type": "image",
           "settings": {
-            "title": "Promote your products",
+            "title": "Elis Vogue Signature Cotton",
             "heading_tag": "h4",
             "link_url": "",
             "link_text": "",
@@ -437,7 +442,6 @@
         "item-3",
         "29246d34-c6e0-4373-84f6-b15e57736a00"
       ],
-      "disabled": true,
       "settings": {
         "full_width": true,
         "reduce_width": false,

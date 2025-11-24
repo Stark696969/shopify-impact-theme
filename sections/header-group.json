@@ -17,14 +17,14 @@
         "message_QACyrF": {
           "type": "message",
           "settings": {
-            "text": "Free Delivery",
+            "text": "🚚 Free Delivery",
             "url": ""
           }
         },
         "message": {
           "type": "message",
           "settings": {
-            "text": "Flat 40% off",
+            "text": "🏷️ Flat 40% off",
             "url": ""
           }
         }

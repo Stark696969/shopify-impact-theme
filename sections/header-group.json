@@ -33,6 +33,7 @@
         "message_QACyrF",
         "message"
       ],
+      "disabled": true,
       "settings": {
         "enable_sticky": false,
         "text_size": "text-xs",
@@ -48,7 +49,7 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/logo_new.png",
+        "logo": "shopify://shop_images/1120x320_logo.png",
         "logo_max_width": 300,
         "logo_mobile_max_width": 170,
         "menu": "main-menu",
